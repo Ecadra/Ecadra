@@ -1,6 +1,6 @@
 # ![GitHub Banner](https://user-images.githubusercontent.com/58979908/220982617-9a8f0e4a-5e8e-4d3d-8b5c-6b7b0e3e1d3f.png)
 
-## 👋 Hola, soy [Tu Nombre]  
+## 👋 Hola, soy Edwin Campos Dragusin  
 **Estudiante de 8vo semestre de Ingeniería en Sistemas Computacionales**  
 *Desarrollador en formación con proyectos académicos en múltiples áreas de la computación*
 
@@ -31,12 +31,11 @@ Ingeniería en Sistemas Computacionales • Ago 2021 - Presente
    *Java + MySQL | 5to Semestre*  
    CRUD completo con autenticación y generación de reportes
 
-
-3. **Compresor de Archivos Huffman**  
+2. **Compresor de Archivos Huffman**  
    *C++ | Optativa: Compresión de Datos*  
    Implementación del algoritmo de Huffman para compresión sin pérdidas
 
-4. **Dashboard de Análisis de Datos (En desarrollo)**  
+3. **Dashboard de Análisis de Datos (En desarrollo)**  
    *Python + Pandas + Tableau | Optativa: Minería de Datos*  
    Visualización de datos con técnicas de ETL y análisis exploratorio
 
