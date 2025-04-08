@@ -59,3 +59,5 @@ Ingeniería en Sistemas Computacionales • Ago 2021 - Presente
 [ ] 6to Semestre: Redes, Bases Distribuidas
 [ ] 7mo Semestre: Seguridad, Programación Web
 [X] 8vo Semestre: Optativas + Servicio Social
+
+**Actualizado: 08-Abril-2025**
