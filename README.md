@@ -30,7 +30,7 @@ Ingeniería en Sistemas Computacionales • Ago 2021 - Presente
    CRUD completo con autenticación y generación de reportes
 
 2. **Compresor de Archivos Huffman**  
-   *C++ | Optativa: Compresión de Datos*  
+   *Python | Optativa: Compresión de Datos*  
    Implementación del algoritmo de Huffman para compresión sin pérdidas
 
 3. **Dashboard de Análisis de Datos (En desarrollo)**  
