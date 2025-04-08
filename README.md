@@ -1,5 +1,3 @@
-# ![GitHub Banner](https://user-images.githubusercontent.com/58979908/220982617-9a8f0e4a-5e8e-4d3d-8b5c-6b7b0e3e1d3f.png)
-
 ## 👋 Hola, soy Edwin Campos Dragusin  
 **Estudiante de 8vo semestre de Ingeniería en Sistemas Computacionales**  
 *Desarrollador en formación con proyectos académicos en múltiples áreas de la computación*
